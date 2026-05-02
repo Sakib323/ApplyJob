@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────────────────────
+# Job Application Pipeline — requirements.txt
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# ── AI / LLM ─────────────────────────────────────────────────
+openai>=1.30.0              # DeepSeek API (OpenAI-compatible)
+python-dotenv>=1.0.0        # loads DEEPSEEK_API_KEY from api_key.env
+
+# ── Job Scraping ─────────────────────────────────────────────
+python-jobspy>=0.1.16       # scrapes LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google
+
+# ── Document Parsing ─────────────────────────────────────────
+pdfplumber>=0.11.0          # extract text from CV and info-base PDFs
+python-docx>=1.1.0          # extract text from .docx CV files
+
+# ── PDF Generation ───────────────────────────────────────────
+reportlab>=4.2.0            # generate cv_updated.pdf and cover_letter.pdf
+
+# ── Excel / Spreadsheet ──────────────────────────────────────
+openpyxl>=3.1.0             # write ATS report .xlsx files
+pandas>=2.2.0               # dataframe handling for job search results
+
+# ── ATS Scoring Helpers ──────────────────────────────────────
+scikit-learn>=1.4.0         # TF-IDF cosine similarity for ATS scoring
+spacy>=3.7.0                # NLP keyword extraction
+# After install, download the English model:
+#   python -m spacy download en_core_web_sm
+
+# ── Utilities ────────────────────────────────────────────────
+requests>=2.31.0            # HTTP requests (used by jobspy internally)
+beautifulsoup4>=4.12.0      # HTML parsing (used by jobspy internally)
+colorama>=0.4.6             # coloured terminal output

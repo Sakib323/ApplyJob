@@ -1,0 +1,24 @@
+sakib-ahmed-6339081a7
+sakibahmed2018go@gmail.com  ·  +44 7440 551834  ·  London, London, W4 5AN
+Professional Experience
+Data Scientis
+
+29 April 2026
+
+Hiring Manager
+Mindrift
+
+Re: Application for Machine Learning Developer (Freelance)
+
+Dear Hiring Manager,
+
+When my mentee’s team became a Global Nominee at the NASA International Space Apps Challenge—the same competition where I myself became a Global Finalist—I felt a deeper pride than any personal accolade could bring. That moment crystallised why I design solutions that bridge complex theory with real-world impact. I am writing to express my strong interest in the Machine Learning Developer (Freelance) opportunity with Mindrift, where I can apply my five years of hands-on ML experience to design rigorous, Python-driven computational problems that push the boundaries of what AI systems can evaluate.
+
+My technical skill set aligns directly with your requirements. I have fine-tuned Llama 2, Llama 3, and Mistral models using QLoRA for domain-specific tasks and built RAG pipelines with Pinecone for querying private documentation—experience that mirrors your need for expertise in GenAI, LLMs, and vector databases. I am expert-level in Python’s data science stack (NumPy, Pandas, Scipy, scikit-learn), which I use daily for statistical analysis and model validation. Additionally, I engineered a geospatial intelligence system processing 5GB+ of multi-spectral TIFF data through high-performance pipelines, demonstrating my ability to create computationally intensive problems that require non-trivial reasoning chains and cannot be solved manually. My work migrating SaaS products to AWS, cutting costs by 22% and improving API response times by 33%, reflects the MLOps and deployment understanding you seek.
+
+What sets me apart is my proven ability to translate abstract technical concepts into clear, actionable problems—a skill I honed founding the Future Talent Programme bootcamp. Teaching over 150 students C++, Python, and microcontroller programming taught me to design challenges that are both rigorous and accessible, adapting my approach when I realised students like Nabila were too hesitant to ask questions. I developed an anonymous “letterbox” system to surface gaps in understanding, a method that mirrors the iterative feedback loop required to create problems that accurately test AI reasoning. This blend of technical depth and pedagogical clarity means I can craft problems that are not only computationally sound but also precisely documented—ensuring AI systems are evaluated on their true problem-solving capacity, not ambiguous instructions.
+
+Mindrift’s mission to improve AI through carefully designed, real-world problems resonates deeply with my philosophy that mentoring—and by extension, rigorous evaluation—outlives the mentor. I am eager to bring my experience designing end-to-end ML systems and my passion for creating structured, impactful challenges to your project-based opportunities. I would welcome the chance to discuss how my background in computational problem design and Python engineering can contribute to your team. Thank you for your consideration.
+
+Yours sincerely,
+Sakib Ahmed

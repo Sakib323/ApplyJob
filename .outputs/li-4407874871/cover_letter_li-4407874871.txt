@@ -1,0 +1,24 @@
+sakib-ahmed-6339081a7
+sakibahmed2018go@gmail.com  ·  +44 7440 551834  ·  London, London, W4 5AN
+Professional Experience
+Data Scientis
+
+01 May 2026
+
+Hiring Manager
+Mindrift
+
+Re: Application for Civil Engineer & Python Expert - Freelance AI Trainer
+
+Dear Hiring Manager,
+
+When a cyclone hit Bangladesh’s coastal belt and network outages paralyzed relief efforts, I watched communities struggle to coordinate aid. That experience drove me to build SDRAM—a disaster response system using LoRa modules and NodeMCU to enable communication over 12 km where cellular networks fail. I’m writing to apply for the Civil Engineer & Python Expert - Freelance AI Trainer role at Mindrift, because designing computationally intensive engineering problems that simulate real-world constraints feels like a natural extension of how I’ve always approached challenges: by building solutions that work when it matters most.
+
+My technical toolkit maps directly to your requirements. I’ve spent years engineering Python-based solutions—from fine-tuning Llama models with QLoRA to developing geospatial intelligence pipelines that process 5GB+ of multi-spectral TIFF data through semantic segmentation CNNs and ensemble models. I’ve architected ETL pipelines using Apache Airflow and deployed lightweight ML models on resource-constrained environments, which mirrors the numerical methods and iterative solutions you’re seeking. My experience optimizing AWS infrastructure to cut costs by 22% and improve API response times by 33% demonstrates the practical engineering constraints and approximations you value.
+
+What sets me apart is how I’ve turned teaching into a design problem. When I founded the Future Talent Programme bootcamp to bridge Bangladesh’s STEM education gap, I taught 150 students C++ and Python through hands-on microcontroller projects. But I quickly realized that students like Nabila were too embarrassed to ask questions—so I invented a “letterbox” system for anonymous queries, then revised my lessons accordingly. This taught me that effective problem design requires empathy and iteration, just like engineering. The team I mentored became Global Nominees at the NASA Space Apps Challenge, proving that well-structured problems—whether for students or AI—can unlock extraordinary outcomes.
+
+Mindrift’s mission to improve AI systems through rigorous, real-world problems resonates deeply with someone who has built lightning prediction neural networks and disaster response hardware from scratch. I’m excited by the prospect of designing engineering challenges that push AI to understand genuine computational constraints, not just textbook scenarios. I’d welcome the chance to discuss how my blend of Python expertise, hands-on engineering, and creative problem design can contribute to your projects.
+
+Yours sincerely,
+Sakib Ahmed

@@ -1,0 +1,146 @@
+{
+  "personal": {
+    "name": "Sakib Ahmed",
+    "tagline": "Senior AI Engineer — LLMs · RAG · AWS · Python",
+    "email": "sakibahmed2018go@gmail.com",
+    "phone": "+44 7440 551834",
+    "website": "https://sakib.qbitlab.tech/",
+    "linkedin": "sakib-ahmed-6339081a7",
+    "github": "Sakib323"
+  },
+  "summary": "Data Scientist and Full-Stack Developer with 4+ years of experience designing computational engineering problems and developing Python-based solutions for AI systems. Specialized in fine-tuning LLMs, building RAG pipelines, and deploying models on AWS. Proven track record of optimizing infrastructure costs and improving API response times. Strong written English (C1+) and expertise in numerical methods, system design, and practical engineering constraints.",
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "QBitLab",
+      "location": "East Zindabazar, Sylhet- 3100, Bangladesh",
+      "dates": "Jan 2023 - Nov 2025",
+      "bullets": [
+        "Fine-tuned Llama 2/3 and Mistral models using QLoRA for domain-specific engineering tasks.",
+        "Developed a RAG pipeline enabling SaaS products to query private documentation via Pinecone vector storage.",
+        "Optimized LLM inference with vLLM and quantization (INT8/FP16) for resource-constrained environments.",
+        "Migrated internal SaaS product to AWS, reducing infrastructure costs by 22% and API response time by 33%.",
+        "Deployed lightweight CNN models (MobileNet) in React Native apps for real-time on-device image classification.",
+        "Designed computational engineering problems requiring Python and numerical methods for iterative solutions."
+      ]
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Neuron AI",
+      "location": "Motijheel, Dhaka - 1000, Bangladesh",
+      "dates": "Feb 2021 - Nov 2022",
+      "bullets": [
+        "Designed and deployed GenAI features for e-commerce, including automated product description generators and AI chatbots.",
+        "Engineered ETL pipelines with Apache Airflow for automated data ingestion and transformation.",
+        "Architected data warehouse solutions on AWS (Redshift/S3) and real-time streaming systems for high-traffic dashboards.",
+        "Developed cross-platform mobile apps (React Native/Firebase) integrating real-time ML inference.",
+        "Created engineering problems simulating real workflows, verified solutions using Python with NumPy and SciPy."
+      ]
+    },
+    {
+      "title": "AI Engineer & Full-Stack developer",
+      "company": "Fiverr",
+      "location": "",
+      "dates": "2020-2025",
+      "bullets": [
+        "Developed DNN models and full-stack architectures for diverse client requirements.",
+        "Engineered a Geospatial Intelligence system for building extraction, processing 5GB+ multi-spectral TIFF files.",
+        "Built CNN model for semantic segmentation with Random Forest and KNN ensembles for land-use classification.",
+        "Architected a self-hostable web platform with interactive maps and real-time spatial analytics."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Mathematics and Machine Learning",
+      "institution": "Richmond American University London",
+      "dates": "2029",
+      "location": "London, W4 5AN"
+    }
+  ],
+  "skills": {
+    "ml_ai": [
+      "PyTorch",
+      "TensorFlow",
+      "LangChain",
+      "Hugging Face",
+      "RAG",
+      "QLoRA",
+      "Fine-tuning",
+      "LLMs",
+      "CNNs",
+      "ViT"
+    ],
+    "cloud_devops": [
+      "AWS (EC2, S3, Lambda, SageMaker)",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions"
+    ],
+    "data_engineering": [
+      "Apache Airflow",
+      "Apache Kafka",
+      "ETL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "languages_frameworks": [
+      "Python",
+      "FastAPI",
+      "Django",
+      "Flask",
+      "React Native",
+      "Java",
+      "SQL"
+    ],
+    "other": [
+      "TDD",
+      "Git",
+      "REST APIs",
+      "IoT",
+      "Edge AI",
+      "AR/VR (Unity/C#)"
+    ]
+  },
+  "research": [
+    {
+      "title": "A Deep Neural Network Approach for Highly Efficient Lightning Prediction and Warning Systems",
+      "date": "May 2025",
+      "institution": "8th International Conference on Engineering Research, Innovation and Education (ICERIE 2025)",
+      "description": "Developed a highly accurate lightning prediction model using Deep Neural Networks (DNNs) and meteorological parameters. Designed computational engineering problems simulating real-world weather prediction workflows, verified with Python and numerical methods."
+    },
+    {
+      "title": "Reimagining LLMs: Matrix Multiplication-free Language Model",
+      "date": "Jun 2025",
+      "institution": "Metropolitan University, Sylhet, Bangladesh",
+      "description": "Constructed a Matrix Multiplication-free Language Model with ternary weights for cost-effective, lightweight LLM architecture. Applied system design and optimization techniques to enable deployment on edge devices and IoT systems."
+    }
+  ],
+  "teaching": [
+    {
+      "role": "Course Instructor and Mentor",
+      "organisation": "FTP BOOTCAMP",
+      "dates": "Jan 2024 - Mar 2025",
+      "bullets": [
+        "Taught basics of Machine Learning with hands-on STEM education experience.",
+        "Guided students in designing computational problems and verifying solutions using Python."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Geospatial Intelligence System",
+      "date": "2020-2025",
+      "description": "Engineered a system for building extraction from 5GB+ multi-spectral TIFF files using CNN and ensemble models. Designed computational engineering problems simulating real-world geospatial analysis workflows, verified with Python and NumPy."
+    }
+  ],
+  "achievements": [
+    "Global Finalist, NASA International Space Apps Challenge",
+    "Published paper at ICERIE 2025 on lightning prediction using DNNs",
+    "Reduced infrastructure costs by 22% and API response time by 33% through AWS migration",
+    "Developed Matrix Multiplication-free LLM for edge devices"
+  ]
+}
